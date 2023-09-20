@@ -54,13 +54,203 @@ API REST.
 
 ## 3. Objetivos de aprendizaje
 
-> ℹ️ Esta sección será automáticamente generada en el idioma pertinente, a partir
-> de los objetivos de aprendizaje declarados en [`project.yml`](./project.yml),
-> al crear el repo del proyecto para un cohort en particular usando
-> [`./scripts/create-cohort-project.js`](../../scripts#create-cohort-project-coaches).
->
-> Acá puedes ver una [lista de todos los objetivos de aprendizaje](../../learning-objectives/data.yml)
-> que contempla nuestra currícula.
+
+Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Piensa en eso al decidir tu estrategia de trabajo.
+
+### java
+
+- [ ] **data-types/primitive**
+
+- [ ] **data-types/primitive-vs-non-primitive**
+
+- [ ] **data-types/strings**
+
+- [ ] **data-types/arrays**
+
+- [ ] **data-types/void**
+
+- [ ] **data-types/enums**
+
+- [ ] **data-types/date**
+
+- [ ] **access-modifiers/private**
+
+- [ ] **access-modifiers/protected**
+
+- [ ] **access-modifiers/public**
+
+- [ ] **object-oriented-programming/classes-and-objects/classes**
+
+- [ ] **object-oriented-programming/classes-and-objects/objects**
+
+- [ ] **object-oriented-programming/classes-and-objects/methods**
+
+- [ ] **object-oriented-programming/classes-and-objects/attributes**
+
+- [ ] **object-oriented-programming/classes-and-objects/constructors**
+
+- [ ] **object-oriented-programming/classes-and-objects/encapsulation**
+
+- [ ] **object-oriented-programming/uml/class-diagram**
+
+- [ ] **object-oriented-programming/abstraction**
+
+- [ ] **object-oriented-programming/composition**
+
+- [ ] **object-oriented-programming/interface**
+
+- [ ] **object-oriented-programming/polymorphism**
+
+- [ ] **object-oriented-programming/inherit/superclass**
+
+- [ ] **object-oriented-programming/inherit/extends**
+
+- [ ] **object-oriented-programming/inherit/override**
+
+- [ ] **variables**
+
+- [ ] **conditionals**
+
+- [ ] **loops**
+
+- [ ] **lambda**
+
+- [ ] **collections/list/arraylist**
+
+- [ ] **collections/set/hashset**
+
+- [ ] **collections/map/hashmap**
+
+- [ ] **exceptions**
+
+- [ ] **testing/junit**
+
+- [ ] **testing/mocks**
+
+### hibernate
+
+- [ ] **setup**
+
+- [ ] **orm/entity**
+
+- [ ] **orm/table**
+
+- [ ] **orm/columns**
+
+- [ ] **orm/relationship/manytoone**
+
+- [ ] **orm/relationship/onetomany**
+
+- [ ] **orm/relationship/manytomany**
+
+- [ ] **create**
+
+- [ ] **read**
+
+- [ ] **update**
+
+- [ ] **delete**
+
+### spring
+
+- [ ] **core-concepts/beans**
+
+- [ ] **core-concepts/inversion-of-control**
+
+- [ ] **core-concepts/annotations**
+
+- [ ] **spring-boot/servlets**
+
+- [ ] **spring-boot/component/controllers**
+
+- [ ] **spring-boot/component/services**
+
+- [ ] **spring-data-jpa/entities**
+
+- [ ] **spring-data-jpa/repository**
+
+- [ ] **spring-web/rest-controller**
+
+- [ ] **spring-web/request-mapping**
+
+- [ ] **spring-web/request-param**
+
+- [ ] **testing/spring-test**
+
+- [ ] **testing/junit**
+
+- [ ] **testing/hamcrest**
+
+- [ ] **testing/mockito**
+
+- [ ] **setup/initializr**
+
+### Bases de datos
+
+- [ ] **Modelado de datos**
+
+- [ ] **Conexión**
+
+- [ ] **Índices y limitaciones**
+
+### SQL
+
+- [ ] **Creación y modificación de tablas**
+
+  <details><summary>Links</summary><p>
+
+  * [SQL CREATE TABLE Statement - w3schools (en inglés)](https://www.w3schools.com/sql/sql_create_table.asp)
+  * [CREATE TABLE Statement - PostgreSQL Docs (en inglés)](https://www.postgresql.org/docs/15/sql-createtable.html)
+  * [ALTER TABLE Statement - PostgreSQL Docs (en inglés)](https://www.postgresql.org/docs/15/sql-altertable.html)
+</p></details>
+
+- [ ] **Operaciones CRUD (Create-Read-Update-Delete)**
+
+  <details><summary>Links</summary><p>
+
+  * [INSERT](https://www.postgresql.org/docs/15/sql-insert.html)
+  * [SELECT](https://www.postgresql.org/docs/15/sql-select.html)
+  * [UPDATE](https://www.postgresql.org/docs/15/sql-update.html)
+  * [DELETE](https://www.postgresql.org/docs/15/sql-delete.html)
+</p></details>
+
+- [ ] **Borrado de tablas o bases de datos enteras con DROP**
+
+  <details><summary>Links</summary><p>
+
+  * [DROP TABLE](https://www.postgresql.org/docs/15/sql-droptable.html)
+  * [DROP DATABASE](https://www.postgresql.org/docs/15/sql-dropdatabase.html)
+</p></details>
+
+### PostgreSQL
+
+- [ ] **Cliente de terminal psql**
+
+  <details><summary>Links</summary><p>
+
+  * [psql - Docs (en inglés)](https://www.postgresql.org/docs/15/app-psql.html)
+</p></details>
+
+- [ ] **Tipos de datos**
+
+  <details><summary>Links</summary><p>
+
+  * [Chapter 8. Data Types - Docs (en inglés)](https://www.postgresql.org/docs/15/datatype.html)
+</p></details>
+
+- [ ] **Respaldo y restauración (backup/restore)**
+
+  <details><summary>Links</summary><p>
+
+  * [Chapter 26. Backup and Restore - Docs (en inglés)](https://www.postgresql.org/docs/15/backup.html)
+</p></details>
+
+- [ ] **Índices**
+
+  <details><summary>Links</summary><p>
+
+  * [Chapter 11. Indexes - Docs (en inglés)](https://www.postgresql.org/docs/15/indexes.html)
+</p></details>
 
 ## 4. Criterios de aceptación del proyecto
 
