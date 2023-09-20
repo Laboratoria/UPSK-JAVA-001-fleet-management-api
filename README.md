@@ -57,133 +57,126 @@ API REST.
 
 Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Piensa en eso al decidir tu estrategia de trabajo.
 
-### java
+### Java & OOP
 
-- [ ] **data-types/primitive**
+* [ ] **Tipos de datos primitivos**
+* [ ] **Tipos de datos: primitivos vs no primitivos**
+* [ ] **Strings (cadenas de caracteres)**
+* [ ] **Arrays (arreglos)**
+* [ ] **_Access Modifiers_: `private`**
+* [ ] **_Access Modifiers_: `protected`**
+* [ ] **_Access Modifiers_: `public`**
 
-- [ ] **data-types/primitive-vs-non-primitive**
+* #### Programación Orientada a Objectos (OOP)
 
-- [ ] **data-types/strings**
+  - [ ] **Clases**
+  - [ ] **Objetos**
+  - [ ] **Métodos**
+  - [ ] **Atributos**
+  - [ ] **Constructores**
+  - [ ] **Encapsulamiento**
+  - [ ] **Abstracción**
+  - [ ] **Composición**
+  - [ ] **Interfaces**
+  - [ ] **Herencia: `super`**
+  - [ ] **Herencia: `extends`**
+  - [ ] **Herencia: `overrride`**
+  - [ ] **Lenguaje Unificado de Modelado (UML): Diagramas de clases**
 
-- [ ] **data-types/arrays**
+* [ ] **Variables**
+* [ ] **Conditionales**
+* [ ] **Uso de bucles/ciclos (loops)**
 
-- [ ] **data-types/void**
+* #### Collecciones
 
-- [ ] **data-types/enums**
+  - [ ] **Lists: ArrayList**
+  - [ ] **Maps: HashMap**
+  - [ ] **Sets: HashSet**
 
-- [ ] **data-types/date**
+* #### Testing
 
-- [ ] **access-modifiers/private**
+  - [ ] **JUnit**
+  - [ ] **Mockito**
 
-- [ ] **access-modifiers/protected**
+### Spring Framework
 
-- [ ] **access-modifiers/public**
+<details><summary>Links</summary><p>
 
-- [ ] **object-oriented-programming/classes-and-objects/classes**
+  * [Reference](https://docs.spring.io/spring-framework/reference/)
+</p></details>
 
-- [ ] **object-oriented-programming/classes-and-objects/objects**
+* [ ] **Spring `initializr`**
 
-- [ ] **object-oriented-programming/classes-and-objects/methods**
+* #### Conceptos Core
 
-- [ ] **object-oriented-programming/classes-and-objects/attributes**
+<details><summary>Links</summary><p>
 
-- [ ] **object-oriented-programming/classes-and-objects/constructors**
+  * [Core Technologies](https://docs.spring.io/spring-framework/reference/core.html)
+</p></details>
 
-- [ ] **object-oriented-programming/classes-and-objects/encapsulation**
+  - [ ] **Beans**
+  - [ ] **Inversion of Control (IoC)**
+  - [ ] **Annotations**
 
-- [ ] **object-oriented-programming/uml/class-diagram**
+* #### Spring Boot
 
-- [ ] **object-oriented-programming/abstraction**
+<details><summary>Links</summary><p>
 
-- [ ] **object-oriented-programming/composition**
+  * [Reference](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+</p></details>
 
-- [ ] **object-oriented-programming/interface**
+  - [ ] **Servlets**
+  - [ ] **Controllers**
+  - [ ] **Services**
 
-- [ ] **object-oriented-programming/polymorphism**
+* #### Spring Data JPA
 
-- [ ] **object-oriented-programming/inherit/superclass**
+<details><summary>Links</summary><p>
 
-- [ ] **object-oriented-programming/inherit/extends**
+  * [Reference](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
+</p></details>
 
-- [ ] **object-oriented-programming/inherit/override**
+  - [ ] **Entity**
+  - [ ] **Repository**
 
-- [ ] **variables**
+* #### Spring Web
 
-- [ ] **conditionals**
+<details><summary>Links</summary><p>
 
-- [ ] **loops**
+  * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+</p></details>
 
-- [ ] **lambda**
+  - [ ] **REST Controller**
+  - [ ] **Request Mapping**
+  - [ ] **Request Param**
 
-- [ ] **collections/list/arraylist**
+* #### Testing
 
-- [ ] **collections/set/hashset**
+  - [ ] **Spring Test**
+  - [ ] **Hamcrest**
 
-- [ ] **collections/map/hashmap**
+### Hibernate ORM
 
-- [ ] **exceptions**
+  <details><summary>Links</summary><p>
 
-- [ ] **testing/junit**
+  * [¿Qué es un ORM?](https://hibernate.org/orm/what-is-an-orm/)
+  * [Getting Started](https://docs.jboss.org/hibernate/orm/6.3/quickstart/html_single/)
+  * [User Guide](https://docs.jboss.org/hibernate/orm/6.3/userguide/html_single/Hibernate_User_Guide.html)
+</p></details>
 
-- [ ] **testing/mocks**
+* [ ] **Setup**
 
-### hibernate
+* #### Schema
 
-- [ ] **setup**
+  - [ ] **Entity**
+  - [ ] **Table**
+  - [ ] **Column**
+  - [ ] **Identifiers**
+  - [ ] **Associations**
+  - [ ] **Collections**
 
-- [ ] **orm/entity**
-
-- [ ] **orm/table**
-
-- [ ] **orm/columns**
-
-- [ ] **orm/relationship/manytoone**
-
-- [ ] **orm/relationship/onetomany**
-
-- [ ] **orm/relationship/manytomany**
-
-- [ ] **create**
-
-- [ ] **read**
-
-- [ ] **update**
-
-- [ ] **delete**
-
-### spring
-
-- [ ] **core-concepts/beans**
-
-- [ ] **core-concepts/inversion-of-control**
-
-- [ ] **core-concepts/annotations**
-
-- [ ] **spring-boot/servlets**
-
-- [ ] **spring-boot/component/controllers**
-
-- [ ] **spring-boot/component/services**
-
-- [ ] **spring-data-jpa/entities**
-
-- [ ] **spring-data-jpa/repository**
-
-- [ ] **spring-web/rest-controller**
-
-- [ ] **spring-web/request-mapping**
-
-- [ ] **spring-web/request-param**
-
-- [ ] **testing/spring-test**
-
-- [ ] **testing/junit**
-
-- [ ] **testing/hamcrest**
-
-- [ ] **testing/mockito**
-
-- [ ] **setup/initializr**
+* [ ] **Persistance**
+* [ ] **Querying**
 
 ### Bases de datos
 
