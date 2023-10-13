@@ -54,13 +54,196 @@ API REST.
 
 ## 3. Objetivos de aprendizaje
 
-> ℹ️ Esta sección será automáticamente generada en el idioma pertinente, a partir
-> de los objetivos de aprendizaje declarados en [`project.yml`](./project.yml),
-> al crear el repo del proyecto para un cohort en particular usando
-> [`./scripts/create-cohort-project.js`](../../scripts#create-cohort-project-coaches).
->
-> Acá puedes ver una [lista de todos los objetivos de aprendizaje](../../learning-objectives/data.yml)
-> que contempla nuestra currícula.
+
+Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Piensa en eso al decidir tu estrategia de trabajo.
+
+### Java & OOP
+
+* [ ] **Tipos de datos primitivos**
+* [ ] **Tipos de datos: primitivos vs no primitivos**
+* [ ] **Strings (cadenas de caracteres)**
+* [ ] **Arrays (arreglos)**
+* [ ] **_Access Modifiers_: `private`**
+* [ ] **_Access Modifiers_: `protected`**
+* [ ] **_Access Modifiers_: `public`**
+
+* #### Programación Orientada a Objectos (OOP)
+
+  - [ ] **Clases**
+  - [ ] **Objetos**
+  - [ ] **Métodos**
+  - [ ] **Atributos**
+  - [ ] **Constructores**
+  - [ ] **Encapsulamiento**
+  - [ ] **Abstracción**
+  - [ ] **Composición**
+  - [ ] **Interfaces**
+  - [ ] **Herencia: `super`**
+  - [ ] **Herencia: `extends`**
+  - [ ] **Herencia: `overrride`**
+  - [ ] **Lenguaje Unificado de Modelado (UML): Diagramas de clases**
+
+* [ ] **Variables**
+* [ ] **Conditionales**
+* [ ] **Uso de bucles/ciclos (loops)**
+
+* #### Collecciones
+
+  - [ ] **Lists: ArrayList**
+  - [ ] **Maps: HashMap**
+  - [ ] **Sets: HashSet**
+
+* #### Testing
+
+  - [ ] **JUnit**
+  - [ ] **Mockito**
+
+### Spring Framework
+
+<details><summary>Links</summary><p>
+
+  * [Reference](https://docs.spring.io/spring-framework/reference/)
+</p></details>
+
+* [ ] **Spring `initializr`**
+
+* #### Conceptos Core
+
+<details><summary>Links</summary><p>
+
+  * [Core Technologies](https://docs.spring.io/spring-framework/reference/core.html)
+</p></details>
+
+  - [ ] **Beans**
+  - [ ] **Inversion of Control (IoC)**
+  - [ ] **Annotations**
+
+* #### Spring Boot
+
+<details><summary>Links</summary><p>
+
+  * [Reference](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+</p></details>
+
+  - [ ] **Servlets**
+  - [ ] **Controllers**
+  - [ ] **Services**
+
+* #### Spring Data JPA
+
+<details><summary>Links</summary><p>
+
+  * [Reference](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
+</p></details>
+
+  - [ ] **Entity**
+  - [ ] **Repository**
+
+* #### Spring Web
+
+<details><summary>Links</summary><p>
+
+  * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+</p></details>
+
+  - [ ] **REST Controller**
+  - [ ] **Request Mapping**
+  - [ ] **Request Param**
+
+* #### Testing
+
+  - [ ] **Spring Test**
+  - [ ] **Hamcrest**
+
+### Hibernate ORM
+
+  <details><summary>Links</summary><p>
+
+  * [¿Qué es un ORM?](https://hibernate.org/orm/what-is-an-orm/)
+  * [Getting Started](https://docs.jboss.org/hibernate/orm/6.3/quickstart/html_single/)
+  * [User Guide](https://docs.jboss.org/hibernate/orm/6.3/userguide/html_single/Hibernate_User_Guide.html)
+</p></details>
+
+* [ ] **Setup**
+
+* #### Schema
+
+  - [ ] **Entity**
+  - [ ] **Table**
+  - [ ] **Column**
+  - [ ] **Identifiers**
+  - [ ] **Associations**
+  - [ ] **Collections**
+
+* [ ] **Persistance**
+* [ ] **Querying**
+
+### Bases de datos
+
+- [ ] **Modelado de datos**
+
+- [ ] **Conexión**
+
+- [ ] **Índices y limitaciones**
+
+### SQL
+
+- [ ] **Creación y modificación de tablas**
+
+  <details><summary>Links</summary><p>
+
+  * [SQL CREATE TABLE Statement - w3schools (en inglés)](https://www.w3schools.com/sql/sql_create_table.asp)
+  * [CREATE TABLE Statement - PostgreSQL Docs (en inglés)](https://www.postgresql.org/docs/15/sql-createtable.html)
+  * [ALTER TABLE Statement - PostgreSQL Docs (en inglés)](https://www.postgresql.org/docs/15/sql-altertable.html)
+</p></details>
+
+- [ ] **Operaciones CRUD (Create-Read-Update-Delete)**
+
+  <details><summary>Links</summary><p>
+
+  * [INSERT](https://www.postgresql.org/docs/15/sql-insert.html)
+  * [SELECT](https://www.postgresql.org/docs/15/sql-select.html)
+  * [UPDATE](https://www.postgresql.org/docs/15/sql-update.html)
+  * [DELETE](https://www.postgresql.org/docs/15/sql-delete.html)
+</p></details>
+
+- [ ] **Borrado de tablas o bases de datos enteras con DROP**
+
+  <details><summary>Links</summary><p>
+
+  * [DROP TABLE](https://www.postgresql.org/docs/15/sql-droptable.html)
+  * [DROP DATABASE](https://www.postgresql.org/docs/15/sql-dropdatabase.html)
+</p></details>
+
+### PostgreSQL
+
+- [ ] **Cliente de terminal psql**
+
+  <details><summary>Links</summary><p>
+
+  * [psql - Docs (en inglés)](https://www.postgresql.org/docs/15/app-psql.html)
+</p></details>
+
+- [ ] **Tipos de datos**
+
+  <details><summary>Links</summary><p>
+
+  * [Chapter 8. Data Types - Docs (en inglés)](https://www.postgresql.org/docs/15/datatype.html)
+</p></details>
+
+- [ ] **Respaldo y restauración (backup/restore)**
+
+  <details><summary>Links</summary><p>
+
+  * [Chapter 26. Backup and Restore - Docs (en inglés)](https://www.postgresql.org/docs/15/backup.html)
+</p></details>
+
+- [ ] **Índices**
+
+  <details><summary>Links</summary><p>
+
+  * [Chapter 11. Indexes - Docs (en inglés)](https://www.postgresql.org/docs/15/indexes.html)
+</p></details>
 
 ## 4. Criterios de aceptación del proyecto
 
