@@ -4,28 +4,28 @@
 
 - [1. Preâmbulo](#1-preâmbulo)
 - [2. Resumo do projeto](#2-resumo-do-projeto)
-- [3. Objetivos de aprendizado](#3-objetivos-de-aprendizado)
+- [3. Objetivos de aprendizagem](#3-objetivos-de-aprendizagem)
 - [4. Critérios de aceitação do projeto](#4-critérios-de-aceitação-do-projeto)
-- [5. Pilha de tecnologia](#5-pilha-de-tecnologia)
+- [5. Stack de tecnologia](#5-stack-de-tecnologia)
 - [6. Modelo Base](#6-modelo-base)
-- [7. Dicas, dicas e leituras complementares](#7-dicas-dicas-e-leituras-complementares)
+- [7. Dicas, guias e leituras complementares](#7-dicas-dicas-e-leituras-complementares)
 - [8. Edição Hacker](#8-edição-hacker)
 
 ---
 
 ## 1. Preâmbulo
 
-De acordo com [Wikipedia](https://es.wikipedia.org/wiki/Internet_de_las_cosas),
+De acordo com [Wikipedia](https://pt.wikipedia.org/wiki/Internet_das_coisas),
 a internet das coisas (IoT, em inglês) é um conceito que se refere à
 interconexão digital de objetos cotidianos com a internet. Constitui uma mudança
 radical na qualidade de vida das pessoas na sociedade, oferecendo muitas novas
 oportunidades de acesso a dados, serviços específicos na educação, segurança,
 assistência médica e transporte, entre outros campos.
 
-Em logística e gestão de frotas, por exemplo, é possível rastrear a localização
-e as condições da carga e dos ativos o tempo todo, por meio de sensores sem fio
-conectados à internet que enviam alertas em caso de eventualidades (atrasos,
-danos, roubos, etc).
+Em logística e gestão de frotas de automóveis, por exemplo, é possível rastrear
+a localização e as condições da carga e dos veículos o tempo todo, por meio de
+sensores sem fio conectados à internet que enviam alertas em caso de
+eventualidades (atrasos, danos, roubos, etc).
 
 ![zach-vessels-utMdPdGDc8M-unsplash](https://user-images.githubusercontent.com/110297/136462570-852fcc55-e363-4262-a8f3-6bb65702e75a.jpg)
 
@@ -43,12 +43,12 @@ Neste projeto, você construirá a API REST de um
 para consultar as localizações dos veículos de uma empresa de táxis em Pequim,
 China.
 
-Forneceremos mais de 17 milhões de localizações de quase 10 mil táxis. Esperamos
+Forneceremos milhões de localizações de milheres de táxis. Esperamos
 que, como desenvolvedora, você explore novas alternativas e técnicas para
 armazenar e consultar essa grande quantidade de informações e possa garantir
 a melhor experiência do usuário em sua API REST.
 
-## 3. Objetivos de aprendizado
+## 3. Objetivos de aprendizagem
 
 Refletir e depois marcar os objetivos que você entendeu e aplicou em seu
 projeto. Pense nisso ao decidir sua estratégia de trabalho.
@@ -122,8 +122,8 @@ projeto. Pense nisso ao decidir sua estratégia de trabalho.
 </p></details>
 
 * [ ] **Servlets**
-* [ ] **Controladores**
-* [ ] **Serviços**
+* [ ] **Controllers**
+* [ ] **Services**
 
 - #### Spring Data JPA
 
@@ -142,9 +142,9 @@ projeto. Pense nisso ao decidir sua estratégia de trabalho.
 - [Criando um Serviço Web RESTful](https://spring.io/guides/gs/rest-service/)
 </p></details>
 
-* [ ] **Controlador REST**
-* [ ] **Mapeamento de Solicitação**
-* [ ] **Parâmetro de Solicitação**
+* [ ] **REST Controller**
+* [ ] **RequestMapping**
+* [ ] **RequestParam**
 
 - #### Testes
 
@@ -319,7 +319,7 @@ Refletir e marcar as opções que você seguiu ao desenvolver seu projeto.
 - [ ] **14. Deploy**
   - [ ] A aplicação deve ser implantada e acessível na web.
 
-## 5. Pilha de tecnologia
+## 5. Stack de tecnologia
 
 O propósito dessa seção é definir um conjunto de tecnologias que você possa
 utilizar como ponto de partida para desenvolver o projeto. A escolha final
